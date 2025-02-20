@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">A software developer from México &#x1F1F2;&#x1F1FD;</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianmtr&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmtr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianmtr&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmtr" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmtr" alt="adrianmtr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmtr" alt="adrianmtr" /></a> </p>
 
 <!--
 <h3 align="left">Connect with me:</h3>
@@ -62,8 +62,8 @@ Here are some ideas to get you started:
   <h4>Email: adrianmartineztr@hotmail.com</h4>
 </p>
 -->
-<h3 align="center">Programming Languages</h3>
-<p align="center" id="PLang">
+<h3 align="left">Programming Languages</h3>
+<p align="left" id="PLang">
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -98,8 +98,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">Frameworks & Libraries & Enviroments</h3>
-<p align="center" id="Frameworks">
+<h3 align="left">Frameworks & Libraries & Enviroments</h3>
+<p align="left" id="Frameworks">
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
@@ -122,16 +122,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">Version Control</h3>
-<p align="center" id="VersionCtrl">
+<h3 align="left">Version Control</h3>
+<p align="left" id="VersionCtrl">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="center">DBMS</h3>
-<p align="center" id="DBMS">
+<h3 align="left">DBMS</h3>
+<p align="left" id="DBMS">
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -146,16 +146,16 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">OS</h3>
-<p align="center" id="OS">
+<h3 align="left">OS</h3>
+<p align="left" id="OS">
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="center">Extra tools</h3>
-<p align="center" id="tools"> 
+<h3 align="left">Extra tools</h3>
+<p align="left" id="tools"> 
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/>
