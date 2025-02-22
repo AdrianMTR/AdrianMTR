@@ -152,13 +152,17 @@ Here are some ideas to get you started:
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  <!-- Windows -->
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="linux" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Extra tools</h3>
 <p align="left" id="tools"> 
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
   </a>
   <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
